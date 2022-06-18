@@ -7,4 +7,4 @@ O trabalho consistia na criação de um disassembler para linguagem marie, onde 
 
 Executar programa via linha de comando:
 
-  python disasm.py <nome do arquivo de teste ex: teste.bin>
+  python disasm.py "nome do arquivo de teste ex: teste.bin"
